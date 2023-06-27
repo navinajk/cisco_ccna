@@ -8,7 +8,7 @@ Its an interesting problem demonstrating the concepts of **Classless IP Subnetti
 
 
 ## Designed Network
-![a](../master/network-screenshot.PNG)
+![a](network-screenshot.PNG)
 
 
 ## Problem Statement
